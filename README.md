@@ -1,2 +1,2 @@
-# cuddly-invention
+# Machine learning
 Notes in ML
